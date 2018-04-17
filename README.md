@@ -1,4 +1,4 @@
-# vue-nhl-games
+# vue-tacos
 
 > A Vue.js project
 
